@@ -35,7 +35,7 @@ This project analyzes Kenya’s public debt trends, economic growth, and interes
 ## 📊 Dashboard Preview
 
 ### 🔹 Overview
-<img src="images/overview.png" width="800"/>
+<img src="https://github.com/KiruruKamau/kenya-debt-dynamics-analysis/blob/main/Images/Overview.png" width="800"/>
 
 - Total Debt KPI  
 - Debt-to-GDP Ratio  
@@ -46,7 +46,7 @@ This project analyzes Kenya’s public debt trends, economic growth, and interes
 ---
 
 ### 🔹 Dynamics & Sustainability
-<img src="images/dynamics.png" width="800"/>
+<img src="https://github.com/KiruruKamau/kenya-debt-dynamics-analysis/blob/main/Images/dynamics.png" width="800"/>
 
 - GDP Growth vs Debt Growth  
 - Growth Gap Analysis  
